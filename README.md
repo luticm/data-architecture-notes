@@ -1,2 +1,2 @@
 # Data Architecture Notes
-A collection of notes, references and lessons learned about relational and non-relational databases, data platforms, and architectures.
+A collection of practical notes, references, lessons learned, and reflections on data architecture, databases, data platforms, and solution design.
